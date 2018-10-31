@@ -1,1 +1,1 @@
-select 'F'
+select 'FBB'
