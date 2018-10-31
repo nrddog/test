@@ -1,0 +1,1 @@
+delete l from dbo.as_log as l
