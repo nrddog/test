@@ -1,1 +1,1 @@
-select 'FBB'
+select 'FBB master'
